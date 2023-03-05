@@ -5,9 +5,15 @@
 
 Team Members: [Yeeshukant Singh](https://github.com/Yeeshukant), [Kshitij Bhat](https://github.com/KshitijBhat), [Harsh Bardhan](https://github.com/harshahb), [Rohan Jha](https://github.com/rohanjha04), [Sairaj Loke](https://github.com/SairajLoke), [Akshit Raizada](https://github.com/AkshitRaizada), [Omkar Shirgaonkar](https://github.com/BulzEye), [Shivankar Sharma](https://github.com/Shivankar007)
 
-Original Repo: https://github.com/DaemonLab/Drone-Swarm-InterIIT-2023
+- [Original Repository](https://github.com/DaemonLab/Drone-Swarm-InterIIT-2023)
 
-API for controlling The Pluto 1.2 nano drone
+- [Problem Statement](https://github.com/DaemonLab/Drone-Swarm-InterIIT-2023/blob/yeeshukant/Problem_Statement.pdf) 
+
+- [Presentation](https://github.com/DaemonLab/Drone-Swarm-InterIIT-2023/blob/yeeshukant/Presentation.pdf) 
+
+- [Report](https://github.com/DaemonLab/Drone-Swarm-InterIIT-2023/blob/yeeshukant/Report.pdf)
+
+### API for controlling The Pluto 1.2 nano drone
 
 ![Pluto1 2-ISO-Front](https://user-images.githubusercontent.com/79806119/214293414-403e11c9-3395-4ed4-a8a5-4aa190e86979.png)
 
