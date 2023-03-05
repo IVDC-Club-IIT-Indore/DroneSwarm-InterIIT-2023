@@ -1,6 +1,12 @@
 <div id="top"></div>
 
 # Drone Swarm Python
+## Inter-IIT Tech Meet 11.0: Bronze medal winning solution to [Drona Aviation](https://github.com/DronaAviation)'s Pluto Drone Swarm Challenge
+
+Team Members: [Yeeshukant Singh](https://github.com/Yeeshukant), [Kshitij Bhat](https://github.com/KshitijBhat), [Harsh Bardhan](https://github.com/harshahb), [Rohan Jha](https://github.com/rohanjha04), [Sairaj Loke](https://github.com/SairajLoke), [Akshit Raizada](https://github.com/AkshitRaizada), [Omkar Shirgaonkar](https://github.com/BulzEye), [Shivankar Sharma](https://github.com/Shivankar007)
+
+Original Repo: https://github.com/DaemonLab/Drone-Swarm-InterIIT-2023
+
 API for controlling The Pluto 1.2 nano drone
 
 ![Pluto1 2-ISO-Front](https://user-images.githubusercontent.com/79806119/214293414-403e11c9-3395-4ed4-a8a5-4aa190e86979.png)
